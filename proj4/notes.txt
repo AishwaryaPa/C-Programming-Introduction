@@ -1,0 +1,4 @@
+For project 4, in the make file, write the child class .h file and .cpp file as the dependencies for parent class.
+This will the child class whenever the parent class is updated
+
+randomizer when missing (1-10) if 1 miss. other wise not miss

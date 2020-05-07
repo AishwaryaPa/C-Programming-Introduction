@@ -1,0 +1,11 @@
+27 Sandshrew 77 7 1
+27 Sandshrew 87 7 1
+27 Sandshrew 117 7 1
+27 Sandshrew 77 7 1
+27 Sandshrew 77 7 1
+93 Haunter 1311 90 3
+93 Haunter 1061 90 3
+43 Oddish 361 36 3
+63 Abra 611 60 1
+79 Slowpoke 1078 107 3
+90 Shellder 255 24 1
